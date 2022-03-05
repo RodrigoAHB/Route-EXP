@@ -1,0 +1,14 @@
+* {
+    --prymary-color:#1A0138;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: var(--prymary-color);
+    color: white;
+}
